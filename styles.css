@@ -10,6 +10,7 @@ p{
     color: #3E3E3E;
 }
 
+
 h1{
     font-size: 25px; 
     font-family: "DM Serif Text", serif;
@@ -23,4 +24,24 @@ h1{
 
 .bg-greyy{
     background-color: #F5F5F5;
+}
+
+.bg-gr1{
+    background-color: #D9D9D9;
+}
+
+.bg-blc{
+    background-color: #171717;
+}
+
+.bg-calm{
+    background-color: #67C69E;
+}
+
+.pop{
+    font-family: "Poppins", sans-serif;
+}
+
+.dm{
+    font-family: "DM Serif Text", serif;
 }
